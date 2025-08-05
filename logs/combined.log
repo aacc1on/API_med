@@ -1,0 +1,201 @@
+2025-08-05 12:36:28 [error]: Uncaught Exception: Route.get() requires a callback function but got a [object Undefined] {
+  "service": "medreminder-api",
+  "stack": "Error: Route.get() requires a callback function but got a [object Undefined]\n    at Route.<computed> [as get] (C:\\Users\\hsaha\\OneDrive\\Սեղան\\medremine_restapi\\node_modules\\express\\lib\\router\\route.js:216:15)\n    at proto.<computed> [as get] (C:\\Users\\hsaha\\OneDrive\\Սեղան\\medremine_restapi\\node_modules\\express\\lib\\router\\index.js:521:19)\n    at Object.<anonymous> (C:\\Users\\hsaha\\OneDrive\\Սեղան\\medremine_restapi\\src\\routes\\appointment.routes.js:18:8)\n    at Module._compile (node:internal/modules/cjs/loader:1730:14)\n    at Object..js (node:internal/modules/cjs/loader:1895:10)\n    at Module.load (node:internal/modules/cjs/loader:1465:32)\n    at Function._load (node:internal/modules/cjs/loader:1282:12)\n    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)\n    at Module.require (node:internal/modules/cjs/loader:1487:12)"
+}
+2025-08-05 12:36:28 [error]: SMTP connection error: connect ECONNREFUSED 127.0.0.1:587 {
+  "service": "medreminder-api",
+  "errno": -4078,
+  "code": "ESOCKET",
+  "syscall": "connect",
+  "address": "127.0.0.1",
+  "port": 587,
+  "command": "CONN",
+  "stack": "Error: connect ECONNREFUSED 127.0.0.1:587\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)"
+}
+2025-08-05 12:36:49 [error]: Uncaught Exception: Route.get() requires a callback function but got a [object Undefined] {
+  "service": "medreminder-api",
+  "stack": "Error: Route.get() requires a callback function but got a [object Undefined]\n    at Route.<computed> [as get] (C:\\Users\\hsaha\\OneDrive\\Սեղան\\medremine_restapi\\node_modules\\express\\lib\\router\\route.js:216:15)\n    at proto.<computed> [as get] (C:\\Users\\hsaha\\OneDrive\\Սեղան\\medremine_restapi\\node_modules\\express\\lib\\router\\index.js:521:19)\n    at Object.<anonymous> (C:\\Users\\hsaha\\OneDrive\\Սեղան\\medremine_restapi\\src\\routes\\appointment.routes.js:18:8)\n    at Module._compile (node:internal/modules/cjs/loader:1730:14)\n    at Object..js (node:internal/modules/cjs/loader:1895:10)\n    at Module.load (node:internal/modules/cjs/loader:1465:32)\n    at Function._load (node:internal/modules/cjs/loader:1282:12)\n    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)\n    at Module.require (node:internal/modules/cjs/loader:1487:12)"
+}
+2025-08-05 12:36:49 [error]: SMTP connection error: connect ECONNREFUSED 127.0.0.1:587 {
+  "service": "medreminder-api",
+  "errno": -4078,
+  "code": "ESOCKET",
+  "syscall": "connect",
+  "address": "127.0.0.1",
+  "port": 587,
+  "command": "CONN",
+  "stack": "Error: connect ECONNREFUSED 127.0.0.1:587\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)"
+}
+2025-08-05 12:37:55 [error]: Uncaught Exception: Route.get() requires a callback function but got a [object Undefined] {
+  "service": "medreminder-api",
+  "stack": "Error: Route.get() requires a callback function but got a [object Undefined]\n    at Route.<computed> [as get] (C:\\Users\\hsaha\\OneDrive\\Սեղան\\medremine_restapi\\node_modules\\express\\lib\\router\\route.js:216:15)\n    at proto.<computed> [as get] (C:\\Users\\hsaha\\OneDrive\\Սեղան\\medremine_restapi\\node_modules\\express\\lib\\router\\index.js:521:19)\n    at Object.<anonymous> (C:\\Users\\hsaha\\OneDrive\\Սեղան\\medremine_restapi\\src\\routes\\appointment.routes.js:18:8)\n    at Module._compile (node:internal/modules/cjs/loader:1730:14)\n    at Object..js (node:internal/modules/cjs/loader:1895:10)\n    at Module.load (node:internal/modules/cjs/loader:1465:32)\n    at Function._load (node:internal/modules/cjs/loader:1282:12)\n    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)\n    at Module.require (node:internal/modules/cjs/loader:1487:12)"
+}
+2025-08-05 12:37:55 [error]: SMTP connection error: connect ECONNREFUSED 127.0.0.1:587 {
+  "service": "medreminder-api",
+  "errno": -4078,
+  "code": "ESOCKET",
+  "syscall": "connect",
+  "address": "127.0.0.1",
+  "port": 587,
+  "command": "CONN",
+  "stack": "Error: connect ECONNREFUSED 127.0.0.1:587\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)"
+}
+2025-08-05 12:40:16 [error]: Uncaught Exception: Route.get() requires a callback function but got a [object Undefined] {
+  "service": "medreminder-api",
+  "stack": "Error: Route.get() requires a callback function but got a [object Undefined]\n    at Route.<computed> [as get] (C:\\Users\\hsaha\\OneDrive\\Սեղան\\medremine_restapi\\node_modules\\express\\lib\\router\\route.js:216:15)\n    at proto.<computed> [as get] (C:\\Users\\hsaha\\OneDrive\\Սեղան\\medremine_restapi\\node_modules\\express\\lib\\router\\index.js:521:19)\n    at Object.<anonymous> (C:\\Users\\hsaha\\OneDrive\\Սեղան\\medremine_restapi\\src\\routes\\appointment.routes.js:18:8)\n    at Module._compile (node:internal/modules/cjs/loader:1730:14)\n    at Object..js (node:internal/modules/cjs/loader:1895:10)\n    at Module.load (node:internal/modules/cjs/loader:1465:32)\n    at Function._load (node:internal/modules/cjs/loader:1282:12)\n    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)\n    at Module.require (node:internal/modules/cjs/loader:1487:12)"
+}
+2025-08-05 12:40:16 [error]: SMTP connection error: connect ECONNREFUSED 127.0.0.1:587 {
+  "service": "medreminder-api",
+  "errno": -4078,
+  "code": "ESOCKET",
+  "syscall": "connect",
+  "address": "127.0.0.1",
+  "port": 587,
+  "command": "CONN",
+  "stack": "Error: connect ECONNREFUSED 127.0.0.1:587\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)"
+}
+2025-08-05 12:46:01 [info]: Email notifications are disabled (FEATURE_EMAIL_NOTIFICATIONS=false) {
+  "service": "medreminder-api"
+}
+2025-08-05 12:46:01 [error]: Uncaught Exception: Route.get() requires a callback function but got a [object Undefined] {
+  "service": "medreminder-api",
+  "stack": "Error: Route.get() requires a callback function but got a [object Undefined]\n    at Route.<computed> [as get] (C:\\Users\\hsaha\\OneDrive\\Սեղան\\medremine_restapi\\node_modules\\express\\lib\\router\\route.js:216:15)\n    at proto.<computed> [as get] (C:\\Users\\hsaha\\OneDrive\\Սեղան\\medremine_restapi\\node_modules\\express\\lib\\router\\index.js:521:19)\n    at Object.<anonymous> (C:\\Users\\hsaha\\OneDrive\\Սեղան\\medremine_restapi\\src\\routes\\appointment.routes.js:18:8)\n    at Module._compile (node:internal/modules/cjs/loader:1730:14)\n    at Object..js (node:internal/modules/cjs/loader:1895:10)\n    at Module.load (node:internal/modules/cjs/loader:1465:32)\n    at Function._load (node:internal/modules/cjs/loader:1282:12)\n    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)\n    at Module.require (node:internal/modules/cjs/loader:1487:12)"
+}
+2025-08-05 12:48:55 [info]: Email notifications are disabled (FEATURE_EMAIL_NOTIFICATIONS=false) {
+  "service": "medreminder-api"
+}
+2025-08-05 12:48:55 [error]: Uncaught Exception: Route.get() requires a callback function but got a [object Undefined] {
+  "service": "medreminder-api",
+  "stack": "Error: Route.get() requires a callback function but got a [object Undefined]\n    at Route.<computed> [as get] (C:\\Users\\hsaha\\OneDrive\\Սեղան\\medremine_restapi\\node_modules\\express\\lib\\router\\route.js:216:15)\n    at proto.<computed> [as get] (C:\\Users\\hsaha\\OneDrive\\Սեղան\\medremine_restapi\\node_modules\\express\\lib\\router\\index.js:521:19)\n    at Object.<anonymous> (C:\\Users\\hsaha\\OneDrive\\Սեղան\\medremine_restapi\\src\\routes\\appointment.routes.js:18:8)\n    at Module._compile (node:internal/modules/cjs/loader:1730:14)\n    at Object..js (node:internal/modules/cjs/loader:1895:10)\n    at Module.load (node:internal/modules/cjs/loader:1465:32)\n    at Function._load (node:internal/modules/cjs/loader:1282:12)\n    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)\n    at Module.require (node:internal/modules/cjs/loader:1487:12)"
+}
+2025-08-05 12:50:39 [info]: Email notifications are disabled (FEATURE_EMAIL_NOTIFICATIONS=false) {
+  "service": "medreminder-api"
+}
+2025-08-05 12:50:40 [error]: Uncaught Exception: Route.get() requires a callback function but got a [object Undefined] {
+  "service": "medreminder-api",
+  "stack": "Error: Route.get() requires a callback function but got a [object Undefined]\n    at Route.<computed> [as get] (C:\\Users\\hsaha\\OneDrive\\Սեղան\\medremine_restapi\\node_modules\\express\\lib\\router\\route.js:216:15)\n    at proto.<computed> [as get] (C:\\Users\\hsaha\\OneDrive\\Սեղան\\medremine_restapi\\node_modules\\express\\lib\\router\\index.js:521:19)\n    at Object.<anonymous> (C:\\Users\\hsaha\\OneDrive\\Սեղան\\medremine_restapi\\src\\routes\\medication.routes.js:17:8)\n    at Module._compile (node:internal/modules/cjs/loader:1730:14)\n    at Object..js (node:internal/modules/cjs/loader:1895:10)\n    at Module.load (node:internal/modules/cjs/loader:1465:32)\n    at Function._load (node:internal/modules/cjs/loader:1282:12)\n    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)\n    at Module.require (node:internal/modules/cjs/loader:1487:12)\n    at require (node:internal/modules/helpers:135:16)\n    at Object.<anonymous> (C:\\Users\\hsaha\\OneDrive\\Սեղան\\medremine_restapi\\src\\app.js:11:26)\n    at Module._compile (node:internal/modules/cjs/loader:1730:14)\n    at Object..js (node:internal/modules/cjs/loader:1895:10)\n    at Module.load (node:internal/modules/cjs/loader:1465:32)\n    at Function._load (node:internal/modules/cjs/loader:1282:12)\n    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)\n    at node:internal/main/run_main_module:36:49"
+}
+2025-08-05 12:58:53 [info]: Email notifications are disabled (FEATURE_EMAIL_NOTIFICATIONS=false) {
+  "service": "medreminder-api"
+}
+2025-08-05 12:58:54 [error]: Uncaught Exception: Route.get() requires a callback function but got a [object Undefined] {
+  "service": "medreminder-api",
+  "stack": "Error: Route.get() requires a callback function but got a [object Undefined]\n    at Route.<computed> [as get] (C:\\Users\\hsaha\\OneDrive\\Սեղան\\medremine_restapi\\node_modules\\express\\lib\\router\\route.js:216:15)\n    at proto.<computed> [as get] (C:\\Users\\hsaha\\OneDrive\\Սեղան\\medremine_restapi\\node_modules\\express\\lib\\router\\index.js:521:19)\n    at Object.<anonymous> (C:\\Users\\hsaha\\OneDrive\\Սեղան\\medremine_restapi\\src\\routes\\medication.routes.js:17:8)\n    at Module._compile (node:internal/modules/cjs/loader:1730:14)\n    at Object..js (node:internal/modules/cjs/loader:1895:10)\n    at Module.load (node:internal/modules/cjs/loader:1465:32)\n    at Function._load (node:internal/modules/cjs/loader:1282:12)\n    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)\n    at Module.require (node:internal/modules/cjs/loader:1487:12)\n    at require (node:internal/modules/helpers:135:16)\n    at Object.<anonymous> (C:\\Users\\hsaha\\OneDrive\\Սեղան\\medremine_restapi\\src\\app.js:11:26)\n    at Module._compile (node:internal/modules/cjs/loader:1730:14)\n    at Object..js (node:internal/modules/cjs/loader:1895:10)\n    at Module.load (node:internal/modules/cjs/loader:1465:32)\n    at Function._load (node:internal/modules/cjs/loader:1282:12)\n    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)\n    at node:internal/main/run_main_module:36:49"
+}
+{"level":"info","message":"Server is running on port 3000","service":"medreminder-api","timestamp":"2025-08-05 13:01:15"}
+2025-08-05 13:01:14 [info]: Email notifications are disabled (FEATURE_EMAIL_NOTIFICATIONS=false) {
+  "service": "medreminder-api"
+}
+{"level":"info","message":"Connected to MongoDB","service":"medreminder-api","timestamp":"2025-08-05 13:01:15"}
+2025-08-05 13:03:06 [info]: Email notifications are disabled (FEATURE_EMAIL_NOTIFICATIONS=false) {
+  "service": "medreminder-api"
+}
+2025-08-05 13:03:06 [error]: Uncaught Exception: Cannot find module '../utils/apiFeatures'
+Require stack:
+- C:\Users\hsaha\OneDrive\Սեղան\medremine_restapi\src\controllers\medication.controller.js
+- C:\Users\hsaha\OneDrive\Սեղան\medremine_restapi\src\routes\medication.routes.js
+- C:\Users\hsaha\OneDrive\Սեղան\medremine_restapi\src\app.js {
+  "service": "medreminder-api",
+  "code": "MODULE_NOT_FOUND",
+  "requireStack": [
+    "C:\\Users\\hsaha\\OneDrive\\Սեղան\\medremine_restapi\\src\\controllers\\medication.controller.js",
+    "C:\\Users\\hsaha\\OneDrive\\Սեղան\\medremine_restapi\\src\\routes\\medication.routes.js",
+    "C:\\Users\\hsaha\\OneDrive\\Սեղան\\medremine_restapi\\src\\app.js"
+  ],
+  "stack": "Error: Cannot find module '../utils/apiFeatures'\nRequire stack:\n- C:\\Users\\hsaha\\OneDrive\\Սեղան\\medremine_restapi\\src\\controllers\\medication.controller.js\n- C:\\Users\\hsaha\\OneDrive\\Սեղան\\medremine_restapi\\src\\routes\\medication.routes.js\n- C:\\Users\\hsaha\\OneDrive\\Սեղան\\medremine_restapi\\src\\app.js\n    at Function._resolveFilename (node:internal/modules/cjs/loader:1401:15)\n    at defaultResolveImpl (node:internal/modules/cjs/loader:1057:19)\n    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1062:22)\n    at Function._load (node:internal/modules/cjs/loader:1211:37)\n    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)\n    at Module.require (node:internal/modules/cjs/loader:1487:12)\n    at require (node:internal/modules/helpers:135:16)\n    at Object.<anonymous> (C:\\Users\\hsaha\\OneDrive\\Սեղան\\medremine_restapi\\src\\controllers\\medication.controller.js:7:21)\n    at Module._compile (node:internal/modules/cjs/loader:1730:14)\n    at Object..js (node:internal/modules/cjs/loader:1895:10)\n    at Module.load (node:internal/modules/cjs/loader:1465:32)\n    at Function._load (node:internal/modules/cjs/loader:1282:12)\n    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)\n    at Module.require (node:internal/modules/cjs/loader:1487:12)\n    at require (node:internal/modules/helpers:135:16)\n    at Object.<anonymous> (C:\\Users\\hsaha\\OneDrive\\Սեղան\\medremine_restapi\\src\\routes\\medication.routes.js:2:30)\n    at Module._compile (node:internal/modules/cjs/loader:1730:14)\n    at Object..js (node:internal/modules/cjs/loader:1895:10)\n    at Module.load (node:internal/modules/cjs/loader:1465:32)\n    at Function._load (node:internal/modules/cjs/loader:1282:12)"
+}
+{"level":"info","message":"Server is running on port 3000","service":"medreminder-api","timestamp":"2025-08-05 13:03:41"}
+2025-08-05 13:03:41 [info]: Email notifications are disabled (FEATURE_EMAIL_NOTIFICATIONS=false) {
+  "service": "medreminder-api"
+}
+{"level":"info","message":"Connected to MongoDB","service":"medreminder-api","timestamp":"2025-08-05 13:03:41"}
+2025-08-05 13:06:07 [info]: Email notifications are disabled (FEATURE_EMAIL_NOTIFICATIONS=false) {
+  "service": "medreminder-api"
+}
+2025-08-05 13:06:08 [error]: Uncaught Exception: listen EADDRINUSE: address already in use :::3000 {
+  "service": "medreminder-api",
+  "code": "EADDRINUSE",
+  "errno": -4091,
+  "syscall": "listen",
+  "address": "::",
+  "port": 3000,
+  "stack": "Error: listen EADDRINUSE: address already in use :::3000\n    at Server.setupListenHandle [as _listen2] (node:net:1939:16)\n    at listenInCluster (node:net:1996:12)\n    at Server.listen (node:net:2101:7)\n    at Function.listen (C:\\Users\\hsaha\\OneDrive\\Սեղան\\medremine_restapi\\node_modules\\express\\lib\\application.js:635:24)\n    at Object.<anonymous> (C:\\Users\\hsaha\\OneDrive\\Սեղան\\medremine_restapi\\src\\app.js:52:5)\n    at Module._compile (node:internal/modules/cjs/loader:1730:14)\n    at Object..js (node:internal/modules/cjs/loader:1895:10)\n    at Module.load (node:internal/modules/cjs/loader:1465:32)\n    at Function._load (node:internal/modules/cjs/loader:1282:12)\n    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)\n    at node:internal/main/run_main_module:36:49"
+}
+{"level":"info","message":"Connected to MongoDB","service":"medreminder-api","timestamp":"2025-08-05 13:06:08"}
+{"level":"info","message":"Server is running on port 3000","service":"medreminder-api","timestamp":"2025-08-05 13:06:35"}
+2025-08-05 13:06:35 [info]: Email notifications are disabled (FEATURE_EMAIL_NOTIFICATIONS=false) {
+  "service": "medreminder-api"
+}
+{"level":"info","message":"Connected to MongoDB","service":"medreminder-api","timestamp":"2025-08-05 13:06:35"}
+{"level":"info","message":"Server is running on port 3000","service":"medreminder-api","timestamp":"2025-08-05 13:07:00"}
+2025-08-05 13:07:00 [info]: Email notifications are disabled (FEATURE_EMAIL_NOTIFICATIONS=false) {
+  "service": "medreminder-api"
+}
+{"level":"info","message":"Connected to MongoDB","service":"medreminder-api","timestamp":"2025-08-05 13:07:00"}
+{"level":"info","message":"Server is running on port 3000","service":"medreminder-api","timestamp":"2025-08-05 13:09:28"}
+2025-08-05 13:09:28 [info]: Email notifications are disabled (FEATURE_EMAIL_NOTIFICATIONS=false) {
+  "service": "medreminder-api"
+}
+{"level":"info","message":"Connected to MongoDB","service":"medreminder-api","timestamp":"2025-08-05 13:09:28"}
+{"level":"info","message":"::1 - - [05/Aug/2025:09:11:52 +0000] \"POST /api/v1/auth/login HTTP/1.1\" 404 157 \"-\" \"curl/8.12.1\"","service":"medreminder-api","timestamp":"2025-08-05 13:11:52"}
+{"level":"info","message":"::1 - - [05/Aug/2025:09:13:40 +0000] \"POST /api/v1/auth/login HTTP/1.1\" 404 157 \"-\" \"curl/8.12.1\"","service":"medreminder-api","timestamp":"2025-08-05 13:13:40"}
+{"level":"info","message":"::1 - - [05/Aug/2025:09:17:45 +0000] \"POST /api/v1/auth/login HTTP/1.1\" 404 157 \"-\" \"curl/8.12.1\"","service":"medreminder-api","timestamp":"2025-08-05 13:17:45"}
+{"level":"info","message":"::1 - - [05/Aug/2025:09:18:02 +0000] \"POST /api/v1/auth/login HTTP/1.1\" 404 157 \"-\" \"curl/8.12.1\"","service":"medreminder-api","timestamp":"2025-08-05 13:18:02"}
+{"level":"error","message":"Error: Incorrect email or password\n    at C:\\Users\\hsaha\\OneDrive\\Սեղան\\medremine_restapi\\src\\controllers\\auth.controller.js:76:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","service":"medreminder-api","timestamp":"2025-08-05 13:20:17"}
+{"level":"info","message":"::1 - - [05/Aug/2025:09:20:17 +0000] \"POST /api/auth/login HTTP/1.1\" 500 52 \"-\" \"curl/8.12.1\"","service":"medreminder-api","timestamp":"2025-08-05 13:20:17"}
+{"level":"info","message":"Server is running on port 3000","service":"medreminder-api","timestamp":"2025-08-05 13:23:18"}
+2025-08-05 13:23:17 [info]: Email notifications are disabled (FEATURE_EMAIL_NOTIFICATIONS=false) {
+  "service": "medreminder-api"
+}
+{"level":"info","message":"Connected to MongoDB","service":"medreminder-api","timestamp":"2025-08-05 13:23:18"}
+{"level":"info","message":"Connected to MongoDB for seeding","service":"medreminder-api","timestamp":"2025-08-05 13:25:00"}
+{"level":"info","message":"Cleared existing test users","service":"medreminder-api","timestamp":"2025-08-05 13:25:00"}
+{"level":"info","message":"Successfully seeded 3 test users","service":"medreminder-api","timestamp":"2025-08-05 13:25:02"}
+{"level":"error","message":"Error: Incorrect email or password\n    at C:\\Users\\hsaha\\OneDrive\\Սեղան\\medremine_restapi\\src\\controllers\\auth.controller.js:76:17","service":"medreminder-api","timestamp":"2025-08-05 13:25:29"}
+{"level":"info","message":"::1 - - [05/Aug/2025:09:25:29 +0000] \"POST /api/auth/login HTTP/1.1\" 500 52 \"-\" \"curl/8.12.1\"","service":"medreminder-api","timestamp":"2025-08-05 13:25:29"}
+{"level":"error","message":"Error: Incorrect email or password\n    at C:\\Users\\hsaha\\OneDrive\\Սեղան\\medremine_restapi\\src\\controllers\\auth.controller.js:76:17","service":"medreminder-api","timestamp":"2025-08-05 13:30:23"}
+{"level":"info","message":"::1 - - [05/Aug/2025:09:30:23 +0000] \"POST /api/auth/login HTTP/1.1\" 500 52 \"-\" \"curl/8.12.1\"","service":"medreminder-api","timestamp":"2025-08-05 13:30:23"}
+{"level":"info","message":"Server is running on port 3000","service":"medreminder-api","timestamp":"2025-08-05 13:32:25"}
+2025-08-05 13:32:25 [info]: Email notifications are disabled (FEATURE_EMAIL_NOTIFICATIONS=false) {
+  "service": "medreminder-api"
+}
+{"level":"info","message":"Connected to MongoDB","service":"medreminder-api","timestamp":"2025-08-05 13:32:25"}
+{"level":"info","message":"Server is running on port 3000","service":"medreminder-api","timestamp":"2025-08-05 13:34:15"}
+2025-08-05 13:34:14 [info]: Email notifications are disabled (FEATURE_EMAIL_NOTIFICATIONS=false) {
+  "service": "medreminder-api"
+}
+{"level":"info","message":"Connected to MongoDB","service":"medreminder-api","timestamp":"2025-08-05 13:34:15"}
+2025-08-05 13:35:14 [info]: Email notifications are disabled (FEATURE_EMAIL_NOTIFICATIONS=false) {
+  "service": "medreminder-api"
+}
+2025-08-05 13:35:14 [error]: Uncaught Exception: listen EADDRINUSE: address already in use :::3000 {
+  "service": "medreminder-api",
+  "code": "EADDRINUSE",
+  "errno": -4091,
+  "syscall": "listen",
+  "address": "::",
+  "port": 3000,
+  "stack": "Error: listen EADDRINUSE: address already in use :::3000\n    at Server.setupListenHandle [as _listen2] (node:net:1939:16)\n    at listenInCluster (node:net:1996:12)\n    at Server.listen (node:net:2101:7)\n    at Function.listen (C:\\Users\\hsaha\\OneDrive\\Սեղան\\medremine_restapi\\node_modules\\express\\lib\\application.js:635:24)\n    at Object.<anonymous> (C:\\Users\\hsaha\\OneDrive\\Սեղան\\medremine_restapi\\src\\app.js:52:5)\n    at Module._compile (node:internal/modules/cjs/loader:1730:14)\n    at Object..js (node:internal/modules/cjs/loader:1895:10)\n    at Module.load (node:internal/modules/cjs/loader:1465:32)\n    at Function._load (node:internal/modules/cjs/loader:1282:12)\n    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)\n    at node:internal/main/run_main_module:36:49"
+}
+{"level":"info","message":"Connected to MongoDB","service":"medreminder-api","timestamp":"2025-08-05 13:35:15"}
+{"level":"info","message":"Login attempt for email: testdoctor@example.com","service":"medreminder-api","timestamp":"2025-08-05 13:35:33"}
+{"level":"info","message":"Password check result for testdoctor@example.com: failed","service":"medreminder-api","timestamp":"2025-08-05 13:35:34"}
+{"level":"error","message":"Error: Incorrect email or password\n    at C:\\Users\\hsaha\\OneDrive\\Սեղան\\medremine_restapi\\src\\controllers\\auth.controller.js:89:19","service":"medreminder-api","timestamp":"2025-08-05 13:35:34"}
+{"level":"info","message":"::1 - - [05/Aug/2025:09:35:34 +0000] \"POST /api/auth/login HTTP/1.1\" 500 52 \"-\" \"curl/8.12.1\"","service":"medreminder-api","timestamp":"2025-08-05 13:35:34"}
+2025-08-05 13:42:44 [info]: Email notifications are disabled (FEATURE_EMAIL_NOTIFICATIONS=false) {
+  "service": "medreminder-api"
+}
+2025-08-05 13:42:44 [error]: Uncaught Exception: listen EADDRINUSE: address already in use :::3000 {
+  "service": "medreminder-api",
+  "code": "EADDRINUSE",
+  "errno": -4091,
+  "syscall": "listen",
+  "address": "::",
+  "port": 3000,
+  "stack": "Error: listen EADDRINUSE: address already in use :::3000\n    at Server.setupListenHandle [as _listen2] (node:net:1939:16)\n    at listenInCluster (node:net:1996:12)\n    at Server.listen (node:net:2101:7)\n    at Function.listen (C:\\Users\\hsaha\\OneDrive\\Սեղան\\medremine_restapi\\node_modules\\express\\lib\\application.js:635:24)\n    at Object.<anonymous> (C:\\Users\\hsaha\\OneDrive\\Սեղան\\medremine_restapi\\src\\app.js:52:5)\n    at Module._compile (node:internal/modules/cjs/loader:1730:14)\n    at Object..js (node:internal/modules/cjs/loader:1895:10)\n    at Module.load (node:internal/modules/cjs/loader:1465:32)\n    at Function._load (node:internal/modules/cjs/loader:1282:12)\n    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)\n    at node:internal/main/run_main_module:36:49"
+}
+{"level":"info","message":"Connected to MongoDB","service":"medreminder-api","timestamp":"2025-08-05 13:42:44"}
+{"level":"info","message":"Login attempt for email: testdoctor@example.com","service":"medreminder-api","timestamp":"2025-08-05 13:43:32"}
+{"level":"info","message":"Password check result for testdoctor@example.com: failed","service":"medreminder-api","timestamp":"2025-08-05 13:43:32"}
+{"level":"error","message":"Error: Incorrect email or password\n    at C:\\Users\\hsaha\\OneDrive\\Սեղան\\medremine_restapi\\src\\controllers\\auth.controller.js:89:19","service":"medreminder-api","timestamp":"2025-08-05 13:43:32"}
+{"level":"info","message":"::1 - - [05/Aug/2025:09:43:32 +0000] \"POST /api/auth/login HTTP/1.1\" 500 52 \"-\" \"curl/8.12.1\"","service":"medreminder-api","timestamp":"2025-08-05 13:43:32"}

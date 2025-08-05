@@ -1,0 +1,31 @@
+Note: Unnecessary use of -X or --request, POST is already inferred.
+* Host localhost:3000 was resolved.
+* IPv6: ::1
+* IPv4: 127.0.0.1
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying [::1]:3000...
+* Connected to localhost (::1) port 3000
+* using HTTP/1.x
+> POST /api/auth/login HTTP/1.1
+> Host: localhost:3000
+> User-Agent: curl/8.12.1
+> Accept: */*
+> Content-Type: application/json
+> Content-Length: 57
+> 
+} [57 bytes data]
+* upload completely sent off: 57 bytes
+< HTTP/1.1 500 Internal Server Error
+< X-Powered-By: Express
+< Access-Control-Allow-Origin: *
+< Content-Type: application/json; charset=utf-8
+< Content-Length: 52
+< ETag: W/"34-7GiIA+fKsrG0Cz9GqeReTzMhMOU"
+< Date: Tue, 05 Aug 2025 09:43:32 GMT
+< Connection: keep-alive
+< Keep-Alive: timeout=5
+< 
+{ [52 bytes data]
+100   109  100    52  100    57    155    170 --:--:-- --:--:-- --:--:--   326{"status":"error","message":"Internal Server Error"}
+* Connection #0 to host localhost left intact
